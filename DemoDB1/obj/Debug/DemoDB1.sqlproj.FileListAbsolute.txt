@@ -1,0 +1,6 @@
+C:\Users\ferad\source\repos\MVC.APP1\DemoDB1\bin\Debug\DemoDB1.dacpac
+C:\Users\ferad\source\repos\MVC.APP1\DemoDB1\bin\Debug\DemoDB1.dll
+C:\Users\ferad\source\repos\MVC.APP1\DemoDB1\bin\Debug\DemoDB1.pdb
+C:\Users\ferad\source\repos\MVC.APP1\DemoDB1\obj\Debug\DemoDB1.sqlproj.AssemblyReference.cache
+C:\Users\ferad\source\repos\MVC.APP1\DemoDB1\obj\Debug\DemoDB1.dll
+C:\Users\ferad\source\repos\MVC.APP1\DemoDB1\obj\Debug\DemoDB1.pdb

@@ -1,0 +1,9 @@
+C:\Users\ferad\source\repos\MVC.APP1\DataLibrary1\bin\Debug\DataLibrary1.dll
+C:\Users\ferad\source\repos\MVC.APP1\DataLibrary1\bin\Debug\DataLibrary1.pdb
+C:\Users\ferad\source\repos\MVC.APP1\DataLibrary1\bin\Debug\Dapper.StrongName.dll
+C:\Users\ferad\source\repos\MVC.APP1\DataLibrary1\bin\Debug\Dapper.StrongName.xml
+C:\Users\ferad\source\repos\MVC.APP1\DataLibrary1\obj\Debug\DataLibrary1.csproj.AssemblyReference.cache
+C:\Users\ferad\source\repos\MVC.APP1\DataLibrary1\obj\Debug\DataLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\ferad\source\repos\MVC.APP1\DataLibrary1\obj\Debug\DataLibrary1.csproj.CopyComplete
+C:\Users\ferad\source\repos\MVC.APP1\DataLibrary1\obj\Debug\DataLibrary1.dll
+C:\Users\ferad\source\repos\MVC.APP1\DataLibrary1\obj\Debug\DataLibrary1.pdb
